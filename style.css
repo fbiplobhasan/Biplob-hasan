@@ -1,0 +1,64 @@
+body{
+    background-image: url(images2/background.jpg);
+    background-size: auto;
+}
+h6{
+    text-align: left;
+    margin: 0px;
+    color: azure;
+}
+h3{
+    text-align: left;
+    color: blue ;
+    background-color: aqua;
+    margin: 0px;
+    border: 2px solid blueviolet;
+    box-shadow: 10px 10px 10px rgb(235, 132, 218);
+}
+h4{
+    text-align: right;
+}
+p{
+    color: whitesmoke;
+    text-align: left;
+}
+h4{
+    color: aliceblue;
+}
+ul{
+    color: azure;
+}
+img{
+/* align-content: center; */
+/* align-self: center; */
+/* align-tracks: center; */
+/* text-align: justify; */
+image-resolution: 250px 250px;
+   margin: 0px;
+   border: 2px solid blueviolet;
+   box-shadow: 5px 5px 5px;
+   padding: 0px;
+}
+.p2, h2{
+    text-align: left;
+    /* text-decoration: underline; */
+}
+div, ul hr{
+    text-align: center;
+}
+.center{
+    display: block;
+    /* margin-top:  auto; */
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+
+copyright{
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+    margin: 0px;
+    padding: 0px
+}
