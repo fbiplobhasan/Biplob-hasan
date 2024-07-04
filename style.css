@@ -9,18 +9,22 @@ h6{
 }
 h3{
     text-align: left;
-    color: blue ;
+    color: tomato ;
     background-color: aqua;
     margin: 0px;
     border: 2px solid blueviolet;
     box-shadow: 10px 10px 10px rgb(235, 132, 218);
+    padding: 10px;
 }
 h4{
     text-align: right;
 }
 p{
     color: whitesmoke;
-    text-align: left;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
 }
 h4{
     color: aliceblue;
@@ -28,16 +32,19 @@ h4{
 ul{
     color: azure;
 }
-img{
+/* img{
 /* align-content: center; */
 /* align-self: center; */
 /* align-tracks: center; */
 /* text-align: justify; */
-image-resolution: 250px 250px;
+/* image-resolution: 250px 250px; */
    margin: 0px;
    border: 2px solid blueviolet;
    box-shadow: 5px 5px 5px;
-   padding: 0px;
+   padding: 0px; */
+   /* background-position: center; */
+   
+   
 }
 .p2, h2{
     text-align: left;
@@ -61,4 +68,27 @@ h2{
     color: aliceblue;
     margin: 0px;
     padding: 0px
+}
+.btn{
+    background-color: tomato;
+    padding: 8px 10px 5px 5px blue;
+    border: style:solid 20px 10px 5px;
+    border-width: 5px;
+    border-color: yellow;
+    border-redius: 5px;
+    width: 20px
+    height: 25px
+}
+.lorem5{
+    text-align: justify;
+color: tomato;
+font-family: roboto;
+}
+.h33{
+    color: aliceblue;
+    text-align: center;
+margin: 0px;
+border: solid 2px ;
+box-shadow: 20px;
+
 }
